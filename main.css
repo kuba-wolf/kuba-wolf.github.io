@@ -51,19 +51,8 @@ body{
   font-size: 20px;
   letter-spacing: 3px;
   font-weight: 100;
-  text-decoration: underline;
   text-align: center;
-  text-align: start;
   margin-bottom: 10%;
-}
-
-.box p skillHeader{
-  font-size: 27px;
-  letter-spacing: 3px;
-  font-weight: 100;
-  text-decoration-line: underline;
-  text-align: center;
-  text-align: start;
 }
 ul{
   margin: 0;
