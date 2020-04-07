@@ -47,11 +47,21 @@ body{
 .box p{
   text-align: justify;
 }
-.box p new_p{
+.box p skills{
   font-size: 20px;
   letter-spacing: 3px;
   font-weight: 100;
   text-decoration: underline;
+  text-align: justify;
+}
+
+.box p skillHeader{
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-weight: 100;
+  text-decoration: underline;
+  padding: 10px;
+  margin-bottom: 3%;
 }
 ul{
   margin: 0;
