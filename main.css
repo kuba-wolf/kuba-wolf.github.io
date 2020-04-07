@@ -52,10 +52,11 @@ ul{
   color: #b9b9b9;
 }
 
-.box li a:active {
-  top: 2px;
-}
+.box li b{
+  color: white;
+  border: 1px solid white;
 
+}
 nav {
   background-color: #FFF;
 }
