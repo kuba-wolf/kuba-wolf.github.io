@@ -4,6 +4,7 @@ body{
   background: url("Phoenix.jpg") no-repeat;
   background-size: cover;
 }
+/* Profile Box */
 .box{
   border-radius: 20px !important;
   width: 450px;
@@ -42,7 +43,7 @@ body{
 }
 .box h5{
   font-size: 20px;
-  letter-spacing: 3px;
+  /*letter-spacing: 3px; */
   font-weight: 100;
 }
 .box p{
@@ -52,6 +53,7 @@ ul{
   margin: 0;
   padding: 0;
 }
+/* These are for the icons */
 .box li{
   display: inline-block;
   margin: 6px;
