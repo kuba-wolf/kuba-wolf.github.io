@@ -8,8 +8,7 @@ body{
 .box{
   border-radius: 20px !important;
   width: 450px;
-  background: rgba(10, 10, 10) !important;
-  opacity: 0.5 !important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
   padding: 40px;
   text-align: center;
   margin: auto;
