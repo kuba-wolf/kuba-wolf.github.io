@@ -3,7 +3,8 @@ body{
   padding: 0;
   background: url("NU.jpg") no-repeat;
   background-size: cover;
-  min-height: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 /* Profile Box */
 .box{
