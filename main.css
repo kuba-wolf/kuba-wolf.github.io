@@ -15,9 +15,7 @@ body{
   text-align: center;
   margin: auto;
   margin-top: 5%;
-  /* added this in to test for mobile */
-  margin-bottom: 10%;
-  /* ------------------ */
+  height: 90%;
   color: white;
   font-family: 'Century Gothic',sans-serif;
 }
